@@ -1,0 +1,13 @@
+Quick Demo Idea:
+
+* Show how to utilize relationships.
+* Show the cross-filter direction stuff. 
+* Quick Measures/Columns
+* Power Query
+
+To filter table to top profits, have to do a Top N filter on actor, filtering by profit.
+
+
+You often have to select a variable for "values" in the Visualization pane. This can ensure, for example, that you get only one point per movie.
+
+Check the cross-filter direction. (Eg. make sure that the casts <-> specs filter is both ways)
